@@ -1,16 +1,23 @@
-### Hi there 👋
+<h2 align="center"><b>Personal Information 👨‍💻</b></h2>
 
-<!--
-**CoderXPiyush/CoderXPiyush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFB3&width=420&lines=A+Passionate+BotMaker+From+India%E2%9C%8C%EF%B8%8F;Python%2C+Node.js%2C+Linux%E2%9D%A4%EF%B8%8F">
+</p> 
+<br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+Name = "Piyush Malviya"
+State = "Uttar Pradesh"
+Country = "🇮🇳"
+```
+<details>
+<summary>⠂𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜⠂</summary>
+<h2 align="center"><b>⠂𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜⠐
+<br>
+<br>
+  
+----
+![](https://github-readme-stats.vercel.app/api?username=CoderXPiyush&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=CoderXPiyush&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderXPiyush&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+----
