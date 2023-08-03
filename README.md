@@ -1,3 +1,4 @@
+![logo](https://github.com/CoderXPiyush/CoderXPiyush/blob/main/Piyush%20Malviya.png)
 <h1 align="center">Hi 👋, I'm Piyush Malviya</h1>
 <h3 align="center">A Passionate Developer from Uttar Pradesh ,India</h3>
 
