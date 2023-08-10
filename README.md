@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python , Java.**
 
-- 📫 How to reach me [Piyush](https://t.me/JoinIndianNavy_007)
+- 📫 How to reach me [Piyush](https://telegram.me/JoinIndianNavy_007)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
