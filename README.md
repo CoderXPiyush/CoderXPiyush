@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderxpiyush" alt="coderxpiyush" /></a> </p>
 
-- 🌱 I’m currently learning **Python , Java.**
+- 🌱 I’m currently learning **Python, Java, C.**
 
 - 📫 How to reach me [Piyush](https://telegram.me/JoinIndianNavy_007)
 
