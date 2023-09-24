@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://twitter.com/piyushmalvi007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="piyushmalvi007" height="30" width="40" /></a>
 <a href="https://instagram.com/piyush_malviya007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="piyush_malviya007" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@piyushmalviyacloud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="piyushmalviyacloud" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@PiyushMalviyaCloud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="PiyushMalviyaCloud" height="30" width="40" /></a>
 <a href="https://t.me/JoinIndianNavy_007" target="blank">
   <img align="center" src="https://github.com/matomo-org/matomo-icons/blob/master/src/socials/web.telegram.org.svg" alt="JoinIndianNavy_007" height="30" width="40" />
 </a>
